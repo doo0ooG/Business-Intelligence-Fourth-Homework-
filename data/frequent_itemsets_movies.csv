@@ -1,0 +1,76 @@
+support,itemsets
+0.1450754409888708,frozenset({'Action'})
+0.07689262305898914,frozenset({'Adventure'})
+0.042559275062684206,frozenset({'Animation'})
+0.28993093740377424,frozenset({'Comedy'})
+0.09473012800774205,frozenset({'Crime'})
+0.08648220648396604,frozenset({'Documentary'})
+0.4457176791448555,frozenset({'Drama'})
+0.06092464698895878,frozenset({'Family'})
+0.05087317995865042,frozenset({'Fantasy'})
+0.03567500989750583,frozenset({'Foreign'})
+0.030748251440636958,frozenset({'History'})
+0.10278009941494744,frozenset({'Horror'})
+0.035147142919984165,frozenset({'Music'})
+0.05426032639774777,frozenset({'Mystery'})
+0.14813267056701712,frozenset({'Romance'})
+0.06706110060264814,frozenset({'Science Fiction'})
+0.01686974882329653,frozenset({'TV Movie'})
+0.16768574319271543,frozenset({'Thriller'})
+0.02909866713588176,frozenset({'War'})
+0.022918224607398934,frozenset({'Western'})
+0.038116394668543524,"frozenset({'Action', 'Adventure'})"
+0.029296617252452382,"frozenset({'Action', 'Comedy'})"
+0.03008841771873488,"frozenset({'Action', 'Crime'})"
+0.05109312453261778,"frozenset({'Action', 'Drama'})"
+0.011019223155764746,"frozenset({'Action', 'Fantasy'})"
+0.010689306294813707,"frozenset({'Action', 'Horror'})"
+0.023688030616284696,"frozenset({'Action', 'Science Fiction'})"
+0.052126864030264376,"frozenset({'Action', 'Thriller'})"
+0.010755289667003915,"frozenset({'Animation', 'Adventure'})"
+0.01836537192627458,"frozenset({'Adventure', 'Comedy'})"
+0.02294021906479567,"frozenset({'Drama', 'Adventure'})"
+0.017243654599041043,"frozenset({'Adventure', 'Family'})"
+0.015000219944573968,"frozenset({'Adventure', 'Fantasy'})"
+0.013372630097215501,"frozenset({'Adventure', 'Science Fiction'})"
+0.012250912769981965,"frozenset({'Adventure', 'Thriller'})"
+0.012206923855188493,"frozenset({'Animation', 'Comedy'})"
+0.01884924998900277,"frozenset({'Animation', 'Family'})"
+0.019267144679540757,"frozenset({'Crime', 'Comedy'})"
+0.09217877094972067,"frozenset({'Drama', 'Comedy'})"
+0.026195398759512604,"frozenset({'Family', 'Comedy'})"
+0.01607794835701403,"frozenset({'Fantasy', 'Comedy'})"
+0.014032463819117583,"frozenset({'Horror', 'Comedy'})"
+0.012580829630933005,"frozenset({'Music', 'Comedy'})"
+0.06855672370562618,"frozenset({'Romance', 'Comedy'})"
+0.012228918312585229,"frozenset({'Science Fiction', 'Comedy'})"
+0.014076452733911055,"frozenset({'Comedy', 'Thriller'})"
+0.055536004926758455,"frozenset({'Drama', 'Crime'})"
+0.015396120177715215,"frozenset({'Crime', 'Mystery'})"
+0.044340826111819824,"frozenset({'Crime', 'Thriller'})"
+0.018277394096687636,"frozenset({'Drama', 'Family'})"
+0.015022214401970704,"frozenset({'Drama', 'Fantasy'})"
+0.021202656930453527,"frozenset({'Drama', 'Foreign'})"
+0.023644041701491224,"frozenset({'Drama', 'History'})"
+0.018167421809703956,"frozenset({'Drama', 'Horror'})"
+0.013834513702546958,"frozenset({'Drama', 'Music'})"
+0.025887476355958297,"frozenset({'Drama', 'Mystery'})"
+0.09871112479655127,"frozenset({'Drama', 'Romance'})"
+0.013592574671182862,"frozenset({'Drama', 'Science Fiction'})"
+0.07537500549861435,"frozenset({'Drama', 'Thriller'})"
+0.021752518365371926,"frozenset({'Drama', 'War'})"
+0.013482602384199183,"frozenset({'Fantasy', 'Family'})"
+0.01139312893150926,"frozenset({'Fantasy', 'Science Fiction'})"
+0.014560330796639247,"frozenset({'Horror', 'Mystery'})"
+0.01913517793516034,"frozenset({'Horror', 'Science Fiction'})"
+0.04236132494611358,"frozenset({'Horror', 'Thriller'})"
+0.032881713808120355,"frozenset({'Thriller', 'Mystery'})"
+0.010909250868781067,"frozenset({'Romance', 'Thriller'})"
+0.01814542735230722,"frozenset({'Science Fiction', 'Thriller'})"
+0.011481106761096203,"frozenset({'Action', 'Adventure', 'Drama'})"
+0.013614569128579598,"frozenset({'Action', 'Crime', 'Drama'})"
+0.01686974882329653,"frozenset({'Action', 'Crime', 'Thriller'})"
+0.019157172392557077,"frozenset({'Action', 'Drama', 'Thriller'})"
+0.030836229270223902,"frozenset({'Drama', 'Romance', 'Comedy'})"
+0.02582149298376809,"frozenset({'Drama', 'Crime', 'Thriller'})"
+0.01559407029428584,"frozenset({'Drama', 'Thriller', 'Mystery'})"
